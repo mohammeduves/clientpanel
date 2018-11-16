@@ -1,0 +1,10 @@
+Resources for clientpanel
+
+1.) Login using gmail on firebase.google.com and create a new project giving a name.
+
+2.) Navigate to http://github.com/rescottprue/react-redux-firebase 
+
+3.) Install following -- "npm install redux react-redux react-redux-firebase redux-firestore firebase"
+
+4.) HOSTED AT - https://reactclientpanel-83b43.firebaseapp.com
+
